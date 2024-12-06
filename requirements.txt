@@ -1,0 +1,7 @@
+pytorch
+albumentations
+tqdm
+torchinfo
+numpy
+PIL
+cv2
